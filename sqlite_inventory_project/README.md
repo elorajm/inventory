@@ -8,7 +8,7 @@ The program runs in the terminal and allows users to manage products and supplie
 Working on this project taught me how to design a database, organize code into modules, and use Python’s sqlite3 library to perform CRUD operations. I also practiced writing unit tests to verify that all functions work correctly.
 
 Software Demo Video:
-Software Demo Video
+[Software Demo Video](https://www.youtube.com/watch?v=v61vzUSH0Fc)
 
 Relational Database
 
